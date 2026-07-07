@@ -1,3 +1,5 @@
 # Mekdi
 A special website for Mekdi
+
+
 Create a complete romantic proposal website in a single index.html file. Use only HTML, CSS, and JavaScript. The page must be mobile-friendly and ready for GitHub Pages. Start with "Hi Mekdi ❤️" followed by a beautiful animated love message. Then ask "Will you be my girlfriend?" with two buttons: "Yes ❤️" and "Not Yet 😊". If "Yes ❤️" is clicked, show a full-screen celebration with hearts, confetti, and the message "Thank you, Mekdi. You made me the happiest person. ❤️". Keep all code in one file so I can publish it and get a single GitHub Pages URL.
